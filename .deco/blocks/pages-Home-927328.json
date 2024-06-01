@@ -1,0 +1,47 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx",
+      "social": [
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/george_psf/"
+        },
+        {
+          "label": "WhatsApp",
+          "href": "https://wa.me/61981835536"
+        },
+        {
+          "label": "Tiktok",
+          "href": "https://www.tiktok.com/@george_psf"
+        },
+        {
+          "label": "Linkedin",
+          "href": "https://www.linkedin.com/in/georgepaulino/"
+        },
+        {
+          "label": "Twitter",
+          "href": "https://x.com/george7paulino"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
